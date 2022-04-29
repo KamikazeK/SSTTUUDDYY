@@ -13,6 +13,7 @@ public class Average {
         double average=(num1+num2+num3)/3;
 
         System.out.println("The average of these three number is:"+average);
+        System.out.println("The average of these three number is:"+average);
 
     }
 
